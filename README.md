@@ -1,29 +1,8 @@
-# vuejs-translating-app in VueJS
+# vuejs-shapes-sandbox-app in VueJS
 
-NEW ver.1.4
+NEW ver.1.0
 
-- User interface improvements.
-
-ver.1.3
-
-- Trannslating became faster.
-
-ver.1.2
-The interface becomes more and more friendly:
-
-- Output window text deletes after the input text is deleted;
-- Complete language names instead of abbreviations in the language lists;
-- Windows sizes became equal.
-
-ver.1.1
-
-- Now it is possible to manually choose the languages from the list;
-- Auto-detection of input language is added;
-- A user-friendly styling was applied.
-
-ver.1.0
-
-- First version, lets us translate from English to Ukrainian using RapidAPI version of Google Translate API
+- First version, let us play in the sandbox, choose a shape and change its color, size, and move it using a keyboard or mouse click.
 
 > A Vue.js project
 
@@ -54,4 +33,4 @@ npm test
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-# vuejs_translator
+# vuejs-shapes-sandbox-app
